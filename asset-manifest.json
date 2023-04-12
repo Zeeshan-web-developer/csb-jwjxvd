@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://zeeshan-web-developer.github.io/csb-jwjxvd/static/css/main.49ddaf9c.chunk.css",
+    "main.js": "https://zeeshan-web-developer.github.io/csb-jwjxvd/static/js/main.842faf07.chunk.js",
+    "main.js.map": "https://zeeshan-web-developer.github.io/csb-jwjxvd/static/js/main.842faf07.chunk.js.map",
+    "runtime-main.js": "https://zeeshan-web-developer.github.io/csb-jwjxvd/static/js/runtime-main.9270c48f.js",
+    "runtime-main.js.map": "https://zeeshan-web-developer.github.io/csb-jwjxvd/static/js/runtime-main.9270c48f.js.map",
+    "static/js/2.3e0a8a7e.chunk.js": "https://zeeshan-web-developer.github.io/csb-jwjxvd/static/js/2.3e0a8a7e.chunk.js",
+    "static/js/2.3e0a8a7e.chunk.js.map": "https://zeeshan-web-developer.github.io/csb-jwjxvd/static/js/2.3e0a8a7e.chunk.js.map",
+    "index.html": "https://zeeshan-web-developer.github.io/csb-jwjxvd/index.html",
+    "static/css/main.49ddaf9c.chunk.css.map": "https://zeeshan-web-developer.github.io/csb-jwjxvd/static/css/main.49ddaf9c.chunk.css.map",
+    "static/js/2.3e0a8a7e.chunk.js.LICENSE.txt": "https://zeeshan-web-developer.github.io/csb-jwjxvd/static/js/2.3e0a8a7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9270c48f.js",
+    "static/js/2.3e0a8a7e.chunk.js",
+    "static/css/main.49ddaf9c.chunk.css",
+    "static/js/main.842faf07.chunk.js"
+  ]
+}
